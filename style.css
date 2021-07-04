@@ -77,3 +77,28 @@ h2{
  
 
 }
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
